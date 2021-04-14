@@ -4,10 +4,7 @@
     {
         public void Add(Musteri musteri)
         {
-            if (expr)
-            {
-                
-            }
+          
             
         }
     }
