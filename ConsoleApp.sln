@@ -2,7 +2,7 @@
 Microsoft Visual Studio Solution File, Format Version 12.00
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DERS4", "DERS4\DERS4.csproj", "{72178152-A8C2-4964-BB4D-2AC459B40638}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "oop3", "oop3\oop3.csproj", "{07735A55-CCEB-425E-BE41-A1DBCF53352E}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DERS5", "DERS5\DERS5.csproj", "{07735A55-CCEB-425E-BE41-A1DBCF53352E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
