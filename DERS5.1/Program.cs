@@ -23,8 +23,7 @@
             //surprises
             Musteri musteri3 = new RealMusteri();
             Musteri musteri4 = new FakeMusteri();
-            CustomerManager.Add(musteri3);
-            CustomerManager.Add(musteri4);
+
             
 
 
